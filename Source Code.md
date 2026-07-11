@@ -1,6 +1,6 @@
 **Source Code**
 
-bash```
+```
 #include <Wire.h>
 #include <EEPROM.h>
 #include <RTClib.h>
